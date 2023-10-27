@@ -1,1 +1,1 @@
-## 0x02. React props
+This projetc is for files of react props under alx react
