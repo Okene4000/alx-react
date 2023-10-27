@@ -1,1 +1,1 @@
-## 0x00. Webpack
+This is the webpack project under alx react
