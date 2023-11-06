@@ -1,1 +1,1 @@
-## 0x04. React inline styling
+project file for inline styling under alx react
