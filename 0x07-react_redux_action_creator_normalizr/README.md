@@ -1,1 +1,1 @@
-## 0x07. React Redux action creator+normalizr
+This project contains files for React Redux action creator+normalizr under ALX react
